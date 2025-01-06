@@ -1,0 +1,4 @@
+Simulations for figures 5 and 6:
+1) sim_main.py - Consists of main.py file to simulate these figures.
+2) plot_er.py - Based on the output from sim_main.py, plots the figures (dataset included)
+3) fig5.pdf, fig6.pdf (Figures from article)
