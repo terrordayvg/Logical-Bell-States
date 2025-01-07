@@ -1,5 +1,5 @@
 =========================================================================================================================
-``Feasibility of Logical Bell State Generation in Memory Assisted Quantum Networks`` 	arXiv:2412.01434
+``Feasibility of Logical Bell State Generation in Memory Assisted Quantum Networks``
 =========================================================================================================================
 
 .. image:: https://img.shields.io/badge/python-3.11-blue.svg
