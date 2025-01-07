@@ -1,0 +1,14 @@
+gen==0.1
+matplotlib==3.5.2
+numpy==2.2.1
+PyMatching==2.1.0
+pytest==7.4.2
+qiskit==1.2.4
+qiskit_aer==0.15.1
+qiskit_ibmq_provider==0.19.2
+qiskit_ignis==0.7.1
+qiskit_terra==0.25.2.1
+scipy==1.15.0
+sinter==1.12.1
+stim==1.12.1
+qiskit_terra==0.22.3
