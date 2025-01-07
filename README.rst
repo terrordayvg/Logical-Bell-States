@@ -29,7 +29,7 @@ Usage
 
                 
         Aditional: 
-                * IBM Sherbrooke 127-qubit calibration data is necessary and is presented in a .csv file
+                * IBM Sherbrooke 127-qubit calibration data is necessary and is presented in a .csv file.
 
 
 Contents of requirements.txt
