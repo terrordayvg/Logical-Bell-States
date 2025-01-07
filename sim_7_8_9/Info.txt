@@ -1,5 +1,0 @@
-Simulates figures 7,8,9:
-1) sim_main.py - outputs data for the figures
-2) plot_er.py - plots the data for the logical error rate
-3) plot_rate.py - plots the rate for the codes
-4) fig7.pdf, fig8.pdf, fig9.pdf - output figures of the article
