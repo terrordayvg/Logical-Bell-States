@@ -5,7 +5,8 @@
 .. image:: https://img.shields.io/badge/python-3.11-blue.svg
         :target: https://www.python.org/downloads/release/python-3110/
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
+.. image:: https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg
+        :target: https://arxiv.org/abs/1234.56789
 
 
 Installation of required libraries
