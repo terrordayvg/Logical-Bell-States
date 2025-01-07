@@ -22,7 +22,7 @@ Usage
 
                This repository is divided into two main folders of the static and robust noise models
         
-        Folders:  
+        Folders and files:  
                 * Each folder has the images to be recreated in the article.
                 * Has a sim.py file to produce the dataset or images.
                 * And a plot.py file to recreate the exact figures with the dataset used.
