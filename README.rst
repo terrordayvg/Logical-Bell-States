@@ -56,5 +56,6 @@ Contents of requirements.txt
 
 What we aimed with this work?
 To create a feasibility analysis of using logical bell states in quantum memories for quantum networks. We determine the tresholds and pseudo-tresholds of the code and code families for Surface and Bacon-Shor codes (d=3 and d=5 only). We utilize lattice surgery to generate the logical bell states using two different protocol with a local and a non-local generation.
+
 -------------------
 This repository combines all the codes to produce the plots and results from the following article: arXiv:2412.01434, if used, cite it correspondently. 
