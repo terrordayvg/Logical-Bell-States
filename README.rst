@@ -8,9 +8,6 @@
 .. image:: https://img.shields.io/badge/arXiv-2412.01434-b31b1b.svg
         :target: https://arxiv.org/abs/2412.01434
 
-.. image:: https://zenodo.org/badge/895034483.svg
-          :target: https://doi.org/10.5281/zenodo.14611158
-
 
 Installation of required libraries
 
