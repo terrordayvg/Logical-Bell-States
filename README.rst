@@ -53,6 +53,8 @@ Contents of requirements.txt
 
 
 What we aimed with this work?
+===========
+
 We conduct a feasibility analysis of employing logical Bell states in quantum memories for quantum networks. Specifically, we determine the break-even and pseudo-thresholds for Surface and Bacon-Shor codes, focusing on codes of distance \(d=3\) and \(d=5\). To generate the logical Bell states, we utilize lattice surgery and introduce two memory assisted protocols: one employing local generation and the other utilizing non-local generation.
 
 
