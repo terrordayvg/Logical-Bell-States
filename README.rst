@@ -59,7 +59,7 @@ We conduct a feasibility analysis of employing logical Bell states in quantum me
 How to Cite
 ===========
 
-If you use this work, please cite the following papers:
+If you use this work, please cite the following paper:
 ::
 
     @article{rsrk-c7yg,
